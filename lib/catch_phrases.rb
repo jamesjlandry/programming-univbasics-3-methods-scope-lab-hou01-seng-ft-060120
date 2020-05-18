@@ -18,5 +18,7 @@ def link
 end
 
 def all_phrases
-  puts
+  puts mario.to_stdout
+  puts toadstool.to_stdout
+  puts link.to_stdout
 end
