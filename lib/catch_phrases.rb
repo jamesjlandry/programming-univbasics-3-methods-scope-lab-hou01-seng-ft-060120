@@ -17,3 +17,4 @@ def link
   words
 end
 
+def all_phrases 
